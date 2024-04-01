@@ -1,9 +1,13 @@
 .imagem {
-    width: 30%; background-image: -moz-linear-gradient();
+    width: 30%;
 }
 
 .p1{
     font-size: 60px;
     background-color: aquamarine;
+}
+
+margem{
+    margin: 2cm;
 }
 
